@@ -11,3 +11,5 @@ Who wants another?
 I do!
 
 You get a commit.
+
+And you get a commit.
