@@ -13,3 +13,5 @@ I do!
 You get a commit.
 
 And you get a commit.
+
+Do you want a commit?
